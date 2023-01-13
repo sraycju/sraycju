@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **srayc.ju2019@gmail.com**
 
-<h3 align="left">Connect with me: srayc.ju2019@gmail.com</h3>
 <p align="left">
 </p>
 
