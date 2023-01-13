@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srirupa</h1>
-<h3 align="center">Computer Science undergraduate, passionate about application development with a keen interest in learning computer languages and developing strong base in the core subjects of Computer Science.</h3>
+<h3 align="center">I am a computer Science undergraduate, passionate about application development with a keen interest in learning computer languages and developing strong base in the core subjects of Computer Science.</h3>
 
 - 🔭 I’m currently working on [Brain Tumour Segmentation](https://github.com/sraycju/BrainTumorSegmentation)
 
 - 📫 How to reach me **srayc.ju2019@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: srayc.ju2019@gmail.com</h3>
 <p align="left">
 </p>
 
